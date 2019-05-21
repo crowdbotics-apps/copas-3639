@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT copas_3639.wsgi:application

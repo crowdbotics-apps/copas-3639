@@ -1,0 +1,3 @@
+rootProject.name = 'copas_3639'
+
+include ':app'
